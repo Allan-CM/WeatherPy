@@ -41,7 +41,7 @@ To further understand the relationship between latitude and the weather variable
 ## Conclusion
 WeatherPy serves as an insightful tool for analyzing global weather patterns and trends. By leveraging real-time data and advanced analytical techniques, the project offers a nuanced understanding of how various weather variables are influenced by geographical location. Whether for academic research, business planning, or personal interest, WeatherPy provides a robust platform for exploring and interpreting weather data on a global scale.
 
-#Part 2 - Creating Interactive Map for identifying ideal vaction spots 
+# Part 2 - Creating Interactive Map for identifying ideal vaction spots 
 
 ## Overview
 VacationPy is a Python project designed to assist users in identifying ideal vacation spots based on specific weather criteria. Leveraging the WeatherPy project's output data, VacationPy utilizes geographic and weather information to generate an interactive map displaying potential vacation destinations. The map highlights cities that meet the user-defined weather conditions, along with the nearest hotel within a 10,000-meter radius.
